@@ -1,0 +1,1 @@
+created CoinCounter class to practice using String methods, characters, escape sequences, keyboard input and GUI input.
