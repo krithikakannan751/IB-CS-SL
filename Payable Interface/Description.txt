@@ -1,0 +1,1 @@
+Created a Payable interface, which supplies method definitions for classes representing different types of employees that are paid in different ways.
