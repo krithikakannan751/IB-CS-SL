@@ -1,1 +1,1 @@
-j
+created a sentence class to practice string methods.
