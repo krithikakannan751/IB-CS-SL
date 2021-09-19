@@ -1,0 +1,1 @@
+created a NumberSet class to keep track of statistics for a set of integers between 0 to 10000.
