@@ -1,0 +1,1 @@
+created a program to average grades using a for loop and a while loop.
