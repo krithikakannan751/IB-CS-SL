@@ -1,0 +1,1 @@
+created a RockPaperScissors class to simulate a rock paper scissors game.
