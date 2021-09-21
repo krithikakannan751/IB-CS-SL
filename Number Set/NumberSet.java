@@ -1,11 +1,4 @@
 /**
- *NOTE:  Experienced programmers should NOT use if statements in 
- *this lab EXCEPT as specifically noted in the bonus instructions.
- *
- *You must use Math.min and Math.max to determine the min and max.
- *
- *You must use shortcuts (++, +=, /=, etc wherever possible).
- *
  *A NumberSet tracks the sum, mean, max and min of a set
  *of positive integer numbers.
  */
