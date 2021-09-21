@@ -1,8 +1,4 @@
 
-
-// Your heading here!
-
-
 public class RockPaperScissors
 {
 	private String personPlay;
