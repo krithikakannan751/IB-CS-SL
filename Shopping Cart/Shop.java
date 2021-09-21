@@ -1,5 +1,3 @@
-/* Your he
- *ading here */
 
 import java.util.Scanner;
 import java.io.*;
