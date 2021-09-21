@@ -1,4 +1,3 @@
-// Your heading here 2017-IB SL !
 
 /**
  *A Sentence provides information about the contents of a sentence.
