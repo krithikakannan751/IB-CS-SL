@@ -1,5 +1,3 @@
-//*** your heading here!  Make no other changes to this class
-
 /**
  *A class to test the Numbers class
  */
