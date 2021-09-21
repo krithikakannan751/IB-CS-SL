@@ -1,5 +1,4 @@
 /* Krithika Kannan */
-/* Add javadocs!!!!*/
 /** 2018 **/
 
 public class Item 
