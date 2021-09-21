@@ -1,4 +1,3 @@
-/* Your heading here!! */
 
 /**
  * A class to test the Student class
