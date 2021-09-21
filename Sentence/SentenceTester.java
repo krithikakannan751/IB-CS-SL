@@ -1,4 +1,3 @@
-// Your heading here 2017 IB SL !!
 
 /**
  * A class to test the Sentence class practicing String Methods
