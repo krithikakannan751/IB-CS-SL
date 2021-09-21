@@ -1,5 +1,3 @@
-/* your heading here */
-
 import java.util.Scanner;
 /**
  *A class to test the NumberSet class
