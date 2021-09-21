@@ -1,5 +1,4 @@
 // Lab19bst.java
-// The student version of the Lab19b assignment.
 
 import java.awt.*;
 import java.awt.event.*;
