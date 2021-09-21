@@ -1,5 +1,3 @@
-//  Your heading here 2017!
-
 import javax.swing.JOptionPane;
 /**
  * A class to test the CoinCounter class
